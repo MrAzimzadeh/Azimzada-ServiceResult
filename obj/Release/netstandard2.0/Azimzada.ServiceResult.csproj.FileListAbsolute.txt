@@ -1,0 +1,10 @@
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.csproj.AssemblyReference.cache
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.AssemblyInfo.cs
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\bin\Release\netstandard2.0\Azimzada.ServiceResult.deps.json
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\bin\Release\netstandard2.0\Azimzada.ServiceResult.dll
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\bin\Release\netstandard2.0\Azimzada.ServiceResult.pdb
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.dll
+c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\obj\Release\netstandard2.0\Azimzada.ServiceResult.pdb
