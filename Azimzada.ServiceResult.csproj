@@ -10,10 +10,15 @@
   <Description>Generic and non-generic ServiceResult for ASP.NET Core APIs.</Description>
   <PackageTags>ServiceResult;Azimzada;API;Result;Generic</PackageTags>
   <RepositoryUrl>https://github.com/MrAzimzadeh/Azimzada-ServiceResult</RepositoryUrl>
+  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
   <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.0" />
+  <None Include="LICENSE" Pack="true" PackagePath="" />
+  <None Include="README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
 </Project>

@@ -4,9 +4,12 @@
     <id>Azimzada.ServiceResult</id>
     <version>1.0.0</version>
     <authors>MrAzimzadeh</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
     <description>Generic and non-generic ServiceResult for ASP.NET Core APIs.</description>
     <tags>ServiceResult Azimzada API Result Generic</tags>
-    <repository type="git" url="https://github.com/MrAzimzadeh/Azimzada-ServiceResult" />
+    <repository type="git" url="https://github.com/MrAzimzadeh/Azimzada-ServiceResult" commit="0d775c671bfb5b12760f0971e3b13f55fdbb7a51" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.0" exclude="Build,Analyzers" />
@@ -15,5 +18,7 @@
   </metadata>
   <files>
     <file src="c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\bin\Release\netstandard2.0\Azimzada.ServiceResult.dll" target="lib\netstandard2.0\Azimzada.ServiceResult.dll" />
+    <file src="c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\LICENSE" target="LICENSE" />
+    <file src="c:\Users\LENOVO\Desktop\MyLib\Azimzada.ServiceResult\README.md" target="README.md" />
   </files>
 </package>
